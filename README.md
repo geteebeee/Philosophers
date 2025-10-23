@@ -2,7 +2,7 @@
 
 ## 🧩 Overview
 
-Each philosopher alternates between eating, sleeping, and thinking. To eat, a philosopher must take two forks — one on the left and one on the right. Proper synchronization ensures no deadlocks or data races occur.
+Each philosopher alternates between eating, sleeping, and thinking. To eat, a philosopher must take two forks, one on the left and one on the right. Proper synchronization ensures no deadlocks or data races occur.
 
 ## ⚙️ Build
 
